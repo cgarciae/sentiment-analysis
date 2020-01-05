@@ -1,0 +1,10 @@
+tensorflow-gpu
+git+https://github.com/tensorflow/datasets
+tensorflow-hub
+numpy
+pandas
+scikit-learn
+typer
+plotly
+matplotlib
+pyyaml
